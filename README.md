@@ -1,2 +1,2 @@
-# CPSC399
+# GAME339
 Hello World!
